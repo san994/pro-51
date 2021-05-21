@@ -1,0 +1,54 @@
+.header{
+
+   display :flex;
+   border : solid 200px;
+   border-color: #000000;
+   justify-content: space-between;
+   background-color: #000000;
+   color: #f0f8ff;
+   
+}
+
+.item img{
+
+  border: solid #483d8b;
+  border-radius: 20px;
+  margin:50px;
+
+  padding-left:100px;
+
+
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+}
+
+
+.item{
+
+  background-color:#fff5ee;
+  border-radius: 50px;
+  width: 700px;
+  height: 1000px;
+  margin: 50px;
+
+}
+
+
+body{
+
+   background-color: #d8bfd8;
+   border: 10px solid #800080;
+
+}
+
+.item h1{
+
+  padding-left: 300px ;
+
+}
